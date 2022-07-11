@@ -1,7 +1,3 @@
-# Fake Verification Bot [V1.0.0]
-Originally created by [AstraaDev](https://github.com/AstraaDev), later went private, but I still had source-code.
-I take no credits for this tool.
-
 <h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)
 
 <a href="https://dsc.gg/botverif">ADD VERIFICATION BOT TO YOUR SERVER (ONLINE 24/24)</a>
